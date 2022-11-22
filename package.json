@@ -1,0 +1,16 @@
+{
+  "name": "docker-lilo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ENVIRONMENT=DEV node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "lilo": "github:jzarca01/LILO",
+    "mqtt": "^4.3.7"
+  }
+}
